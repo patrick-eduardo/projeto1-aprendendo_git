@@ -5,3 +5,7 @@ git status - checa os arquivos adicionados e arquivos para adicionar
 git add nome_do_arquivo.tipo - adiciona um arquivo ao git
 
 git add . - adiciona todos arquivos pendentes ao git 
+
+git commit -m "Nome ou Descrição da versão"- cria uma versão para salvar na nuvem
+
+git push - envia os arquivos para nuvem(Github)
