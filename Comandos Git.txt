@@ -9,3 +9,8 @@ git add . - adiciona todos arquivos pendentes ao git
 git commit -m "Nome ou Descrição da versão"- cria uma versão para salvar na nuvem
 
 git push - envia os arquivos para nuvem(Github)
+
+
+Ordem de como salvar na nuvem 
+
+Alterar arquivos > git add . > git status para checar > git commit -m "descrição da alteração" > git push
