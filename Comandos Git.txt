@@ -14,3 +14,14 @@ git push - envia os arquivos para nuvem(Github)
 Ordem de como salvar na nuvem 
 
 Alterar arquivos > git add . > git status para checar > git commit -m "descrição da alteração" > git push
+
+
+git reflog - mostra todos os commits que foram feitos
+
+git reset --hard id_do_commit - retorna para a versão daquele commit
+
+git branch - mostra todas as branch 
+
+git branch nome_branch - cria uma nova branch
+
+git checkout nome_branch - altera a branch que esta usando 
