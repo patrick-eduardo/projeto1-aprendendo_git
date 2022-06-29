@@ -1,0 +1,7 @@
+git init - inicia as operações para usar o git
+
+git status - checa os arquivos adicionados e arquivos para adicionar
+
+git add nome_do_arquivo.tipo - adiciona um arquivo ao git
+
+git add . - adiciona todos arquivos pendentes ao git 
